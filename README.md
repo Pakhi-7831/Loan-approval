@@ -1,4 +1,4 @@
-## Loan Aprroval regression model
+## Loan Approval regression model
 
 - assesses the loan applications given in the attached dataset to determine their approval or rejection
 - implements a binary logistis regression model for the purpose
